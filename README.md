@@ -62,7 +62,7 @@ terraform workspace new dev
 terraform workspace select dev
 ```
 ------------------------------------
-#Outputs
+# Outputs
 
 - Resource Group name
 - VM name
